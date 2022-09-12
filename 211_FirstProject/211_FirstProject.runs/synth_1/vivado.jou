@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Sep 12 14:54:05 2022
+# Process ID: 9906
+# Current directory: /home/michi/fpga/vivado/2021.1/kv260/211_FirstProject/211_FirstProject.runs/synth_1
+# Command line: vivado -log TOP_firstProject.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TOP_firstProject.tcl
+# Log file: /home/michi/fpga/vivado/2021.1/kv260/211_FirstProject/211_FirstProject.runs/synth_1/TOP_firstProject.vds
+# Journal file: /home/michi/fpga/vivado/2021.1/kv260/211_FirstProject/211_FirstProject.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source TOP_firstProject.tcl -notrace
